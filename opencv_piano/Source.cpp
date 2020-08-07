@@ -1,7 +1,7 @@
 //Opencv3.4.10
 //
 //いろいろ調整する時は22行目と270行目のコメントを読んでね
-//
+//git
 #include "thread"
 #include "math.h"
 #include "cstdio"
